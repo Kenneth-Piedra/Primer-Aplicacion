@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First app</string>
+    <string name="lbl_usuario">User</string>
+    <string name="lbl_contra">password</string>
+    <string name="btn_autenticar">User validator</string>
+    <string name="val_usuario">User required</string>
+    <string name="val_contra">Password required</string>
+    <string name="msg_fin">Waitin for something...</string>
+</resources>
